@@ -13,7 +13,7 @@
 
 - **Gesture-Based Activation**: The backup is triggered by drawing a rectangle with the mouse along the four edges of the screen in fullscreen mode, starting from the top-left corner. This gesture simulates an emergency command to start the backup without needing a functional display.
 
-## 🛠️ System Requirements
+## System Requirements
 
 - Operating System: Windows
 - Input Device: Mouse
@@ -26,6 +26,9 @@
    git clone https://github.com/Tiazzo/emergency-backup.git
    ```
 2. Enter the project directory:
+  ```
+  cd emergency-backup
+  ```
 3. Compile the project (if needed) or directly run emergency_backup.exe.
 4. Follow the instructions in the configuration window to set your backup folder and optional file extensions.
 
