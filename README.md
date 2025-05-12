@@ -1,5 +1,7 @@
 # 🛡️ Emergency Backup
 
+[📄 Read the full report](report.pdf)
+
 **Emergency Backup** is an application designed to create a backup of a selected folder to a USB device—even in emergency situations where the monitor is unavailable. The backup is triggered through a specific gesture drawn with the mouse, ensuring an intuitive and accessible interface.
 
 ## Main Features
